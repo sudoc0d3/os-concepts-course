@@ -92,7 +92,6 @@ Techniques include:
 
 ### **Interactive Questions**
 1. **What are the main states of a process, and what happens in each state?**
-   - *[Answer hidden in Markdown]*
 
    <details>
    <summary>Answer</summary>
@@ -105,7 +104,6 @@ Techniques include:
    </details>
 
 2. **How do `fork()` and `exec()` work in process creation?**
-   - *[Answer hidden in Markdown]*
 
    <details>
    <summary>Answer</summary>
@@ -113,7 +111,6 @@ Techniques include:
    </details>
 
 3. **What is the difference between shared memory and message passing in IPC?**
-   - *[Answer hidden in Markdown]*
 
    <details>
    <summary>Answer</summary>
