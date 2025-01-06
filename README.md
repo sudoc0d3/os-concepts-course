@@ -7,4 +7,4 @@ This repository provides concise lectures focusing on key concepts, accompanied 
 3. [Processes](3-procs.md)
 
 ### Expanded Notes
-The [expanded notes](./expanded-notes) offer deeper explaination and include *mini* illustrations for specific topics covered in the condensed lectures.
+The [expanded notes](./more) offer deeper explaination and include *mini* illustrations for specific topics covered in the condensed lectures.
