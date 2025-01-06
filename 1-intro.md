@@ -50,7 +50,6 @@ The OS manages:
 
 #### **Interactive Questions**
 1. **Why is the Operating System important in a computer system?**
-   - *[Answer hidden in Markdown]*
 
    <details>
    <summary>Answer</summary>
@@ -58,7 +57,6 @@ The OS manages:
    </details>
 
 2. **What happens during the computer's boot process?**
-   - *[Answer hidden in Markdown]*
 
    <details>
    <summary>Answer</summary>
@@ -66,7 +64,6 @@ The OS manages:
    </details>
 
 3. **Can you give an example of how an OS optimizes hardware usage?**
-   - *[Answer hidden in Markdown]*
 
    <details>
    <summary>Answer</summary>
