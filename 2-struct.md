@@ -89,7 +89,6 @@ Common structures include:
 
 ### **Interactive Questions**
 1. **What are the main services provided by an operating system?**
-   - *[Answer hidden in Markdown]*
 
    <details>
    <summary>Answer</summary>
@@ -97,7 +96,6 @@ Common structures include:
    </details>
 
 2. **Why are APIs preferred over direct system calls?**
-   - *[Answer hidden in Markdown]*
 
    <details>
    <summary>Answer</summary>
@@ -105,7 +103,6 @@ Common structures include:
    </details>
 
 3. **What is the advantage of a microkernel structure?**
-   - *[Answer hidden in Markdown]*
 
    <details>
    <summary>Answer</summary>
