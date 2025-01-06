@@ -1,5 +1,5 @@
 # Operating System Concepts
-This repository provides concise lectures focusing on key concepts, accompanied by notes and self-assessment (MCQs and written questions) for an undergraduate Operating Systems course.
+This repository provides condensed lectures focusing on key concepts, accompanied by notes and self-assessment (MCQs and written questions) for an undergraduate Operating Systems course.
 
 ### Lectures
 1. [Introduction](1-intro.md)
