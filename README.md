@@ -8,3 +8,6 @@ This repository provides concise lectures focusing on key concepts, accompanied 
 
 ### Expanded Notes
 The [expanded notes](./more) offer deeper explaination and include *mini* illustrations for specific topics covered in the condensed lectures.
+
+### Resources
+- Silberschatz, A., Galvin, P. B., & Gagne, G. (2018). *Operating System Concepts* (9th ed.). Wiley.
