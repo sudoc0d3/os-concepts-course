@@ -8,6 +8,9 @@ This repository provides condensed lectures focusing on key concepts, accompanie
 4. [Threads](4-threads.md)
 5. [Process Synchronization](5-sync.md)
 6. [CPU Scheduling](6-scheduling.md)
+7. [Deadlocks](7-deadlocks.md)
+8. [Main Memory](8-mainmem.md)
+9. [Virtual Memory](9-virtmem.md)
 
 ### Expanded Notes
 The [expanded notes](./more) offer deeper explaination and include *mini* illustrations and code snippets for specific topics covered in the condensed lectures.
