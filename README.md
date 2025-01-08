@@ -7,6 +7,7 @@ This repository provides condensed lectures focusing on key concepts, accompanie
 3. [Processes](3-procs.md)
 4. [Threads](4-threads.md)
 5. [Process Synchronization](5-sync.md)
+6. [CPU Scheduling](6-scheduling.md)
 
 ### Expanded Notes
 The [expanded notes](./more) offer deeper explaination and include *mini* illustrations and code snippets for specific topics covered in the condensed lectures.
