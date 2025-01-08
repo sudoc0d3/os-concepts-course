@@ -93,7 +93,7 @@ The OS manages:
 
    <details>
    <summary>Answer</summary>
-   D. Users
+   C. Compiler
    </details>
 
 3. **What is the role of the bootstrap program during startup?**
