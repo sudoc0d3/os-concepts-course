@@ -107,7 +107,8 @@ Techniques include:
 
    <details>
    <summary>Answer</summary>
-   `fork()` creates a new process as a copy of the parent. `exec()` replaces the new process's memory with a new program.
+   - fork() creates a new process as a copy of the parent.<br>
+   - exec() replaces the new process's memory with a new program.
    </details>
 
 3. **What is the difference between shared memory and message passing in IPC?**
