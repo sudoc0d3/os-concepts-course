@@ -95,12 +95,12 @@ Techniques include:
 
    <details>
    <summary>Answer</summary>
-   States include:
-   - **New:** Process is created.
-   - **Running:** Instructions are executed.
-   - **Waiting:** Waiting for an event.
-   - **Ready:** Waiting for CPU allocation.
-   - **Terminated:** Process execution ends.
+   States include:<br>
+   - New: Process is created.<br>
+   - Running: Instructions are executed.<br>
+   - Waiting: Waiting for an event.<br>
+   - Ready: Waiting for CPU allocation.<br>
+   - Terminated: Process execution ends.<br>
    </details>
 
 2. **How do `fork()` and `exec()` work in process creation?**
