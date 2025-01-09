@@ -66,7 +66,7 @@ Processes: P1 (7ms), P2 (4ms), P3 (1ms), P4 (4ms)
 **Example:**
 Processes: P1 (24ms), P2 (3ms), P3 (3ms)
 - Time Quantum: 4ms.
-- Average waiting time: \( (6 + 4 + 7) / 3 = 5.66 \) ms.
+- Average waiting time: \( (0 + 3 + 26) / 3 = 11.7 \) ms.
 
 ---
 
