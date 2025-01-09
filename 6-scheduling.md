@@ -43,7 +43,7 @@ Key metrics to evaluate CPU scheduling:
 
 **Example:**
 Processes: P1 (7ms), P2 (4ms), P3 (1ms), P4 (4ms)
-- Average waiting time (Preemptive): \( (9 + 1 + 0 + 2) / 4 = 3 \) ms.
+- Average waiting time (Preemptive): \( (9 + 1 + 0 + 5) / 4 = 3.75 \) ms.
 
 ---
 
